@@ -1,3 +1,12 @@
+# 🎯 Live Streamlit App
+
+👉 **Access the App Here:** [NHANES BMI & Lifestyle Dashboard](https://nhanes-bmi-app-teambinary.streamlit.app/) [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nhanes-bmi-app-teambinary.streamlit.app/)
+
+
+This app explores how sleep, daily sugar intake, calories, and demographics relate to BMI using the NHANES dataset (2021–2023).  
+Developed as part of the *Introduction to Data Science* course — University of Helsinki (2025).
+
+
 # 🧠 What Really Influences BMI? — Insights from NHANES
 
 > This mini-project and Streamlit app were created by **our group** as part of the *Introduction to Data Science* course at the **University of Helsinki (2025)**.  
